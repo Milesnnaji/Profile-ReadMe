@@ -1,4 +1,4 @@
-[![Portfolio](https://raw.githubusercontent.com/milesnnaji/milesnnaji/main/miles.png)](https://github.com/milesnnaji)
+[![Portfolio](https://raw.githubusercontent.com/milesnnaji/milesnnaji/main/cover.png)](https://github.com/milesnnaji)
 
 <h1 align="center">Kingsley Nnaji</h1>
 <h3 align="center">Full-Stack Developer · SaaS Builder · AI/Automation · Toronto, Canada</h3>
